@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931144656180",
+    "firebase_url": "https://sosial-media-5718f.firebaseio.com",
+    "project_id": "sosial-media-5718f",
+    "storage_bucket": "sosial-media-5718f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931144656180:android:2def8b3826090a0d197161",
+        "android_client_info": {
+          "package_name": "com.gilbram.appinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931144656180-u4j0c31idde6676c4egchp4lb58358hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gilbram.appinstagram",
+            "certificate_hash": "bd8b390d8292ce9c26ac678608b7a58d1c85b79d"
+          }
+        },
+        {
+          "client_id": "931144656180-3b1nrrppdhgjdsg40g84bagfbv7eq8bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98d9r_kt04aOIvz_JzLCySObfoAqz-go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931144656180-3b1nrrppdhgjdsg40g84bagfbv7eq8bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
