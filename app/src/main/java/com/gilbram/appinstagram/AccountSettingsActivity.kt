@@ -197,6 +197,7 @@ class AccountSettingsActivity : AppCompatActivity() {
                 val intent = Intent(this@AccountSettingsActivity,MainActivity::class.java)
                 startActivity(intent)
                 finish()
+                //tester
 
             }
         }
